@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    align-items: center;
+}
+
+h1{
+
+    color:blueviolet;
+}
+h2:first-letter{
+   font-size: 45px;
+    color: #54128f;
+}
+h2{
+    color: #440b78;
+    margin: 10px;
+}
+div{
+    display: flex;
+    flex-direction: row;
+}
